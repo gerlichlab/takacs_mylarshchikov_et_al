@@ -13,4 +13,4 @@ export NXF_ANSI_LOG=false
 CURRENT_DIR=$(pwd)
 
 # Run the peakflow pipeline
-nohup nextflow -bg run dmitrymyl/peakflow -r main -profile cbe -params-file params.json
+nohup nextflow -bg run gerlichlab/peakflow -r main -profile cbe -params-file params.json
