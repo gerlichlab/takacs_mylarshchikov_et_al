@@ -205,3 +205,37 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data files
+*.npy
+*.parquet
+*.narrowPeak
+*.bedpe
+*.cool
+*.mcool
+*.bam
+*.bai
+*.bw
+*.model.pdf
+*.fragment_size.txt
+*.bedGraph
+
+# Processing logs
+logs/
+.jupyter-server-log.txt
+*.pid
+*.out
+*.err
+pipeline_info/
+.nextflow.log*
+.nextflow/
+
+# Existing on-disk files not included
+cross_score2.py
+expected_pups/
+bam_counts.txt
+cnv_plot.png
+Notebooks_and_data.txt
+/modules/
+/plots/
+/RegionPlotter_tutorial.ipynb

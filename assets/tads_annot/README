@@ -1,0 +1,4 @@
+Follow 6326.
+1. Call TADs for full G2 WT with selected params.
+2. In a notebook, extract annotation of boundaries and clean them up.
+3. Compare with the previous annotation.

@@ -1,0 +1,4 @@
+1. Use the singularity image. Add note that OnTAD must be installed already.
+2. Use full paths.
+3. Call TADs for every downsampled cooler @ 20Kb with specified params. 6465?
+4. Process TAD annotations? I don't think I need it.

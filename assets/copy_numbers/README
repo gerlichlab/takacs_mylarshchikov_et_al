@@ -1,0 +1,5 @@
+1. Update singularity image: add NeoLoopFinder (?). Or use the provided image for it.
+2. Trace CNV calling in ELN.
+3. Run CNV calling.
+4. Process annotation?
+5. Convert to bigwig.

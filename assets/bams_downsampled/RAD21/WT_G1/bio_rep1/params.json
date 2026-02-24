@@ -1,0 +1,12 @@
+{
+    "samplesheet": "./samplesheet.csv",
+    "blacklist": "/groups/gerlich/experiments/Experiments_006400/006496/assets/hg19-blacklist.v2.bed",
+    "outdir": "./",
+    "prefix": "RAD21_WT_G1_BR1",
+    "binsize": 50,
+    "callpeaks": false,
+    "maketracks": true,
+    "extreads": true,
+    "effgsize": 2736124898,
+    "pairedend": false
+}
