@@ -68,6 +68,16 @@ Notebook: [pileups_1Mb.ipynb](/notebooks/pileups_1Mb.ipynb)
 
 ## Supplementary Figure S2
 ### S2A
+Average ChIP-seq profiles of RAD21 and Sororin in G2 phase at TAD boundaries stratified by hierarchy levels and compartment type.
+
+Notebook: [FigureS2_A_ChIP_compartments.ipynb](/notebooks/FigureS2_A_ChIP_compartments.ipynb)
+
+### S2B
+Average ChIP-seq profiles of RAD21 and Sororin in G2 phase at TAD boundaries stratified by hierarchy levels and proximity to centromeres.
+
+Notebook: [FigureS2_B_ChIP_cens.ipynb](/notebooks/FigureS2_B_ChIP_cens.ipynb)
+
+### S2C
 Observed average Hi-C maps of sister-specific contacts at TAD boundaries stratified by hierarchy levels.
 
 Notebook: [pileups_1Mb.ipynb](/notebooks/pileups_1Mb.ipynb)
@@ -100,7 +110,7 @@ Notebook: [boundary_strength_at_boundaries.ipynb](/notebooks/boundary_strength_a
 
 ## Supplementary Figure S3
 ### S3J
-Hi-C contact maps in G2 phase in WT and upon dCTCF in a selected genomic region.
+Hi-C contact maps in G2 phase in WT, CTCF-AID with and without Auxin in a selected genomic region.
 
 Notebook: [Figure3_A_ROI.ipynb](/notebooks/Figure3_A_ROI.ipynb)
 
@@ -127,7 +137,7 @@ Notebook: [chip_cpm_profiles_at_boundaries.ipynb](/notebooks/chip_cpm_profiles_a
 
 ## Supplementary Figure S4
 ### S4E
-Hi-C contact maps in G2 phase in WT and upon dNIPBL in a selected genomic region.
+Hi-C contact maps in G2 phase in WT, NIPBL-AID with and without Auxin in a selected genomic region.
 
 Notebook: [Figure4_A_ROI.ipynb](/notebooks/Figure4_A_ROI.ipynb)
 
@@ -154,7 +164,7 @@ Notebook: [pileups_5Mb.ipynb](/notebooks/pileups_5Mb.ipynb)
 
 ## Supplementary Figure S5
 ### S5F
-Hi-C contact maps in G2 phase in WT and upon dWAPL in a selected genomic region.
+Hi-C contact maps in G2 phase in WT, WAPL-dTAG with and without dTAG-7 in a selected genomic region.
 
 Notebook: [Figure4_A_ROI.ipynb](/notebooks/Figure4_A_ROI.ipynb)
 
